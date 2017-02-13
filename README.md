@@ -1,4 +1,5 @@
 Simple perceptron-based neural network for determining numbers on images.
+Can be built and ran using VS2013+.
 
 ![Alt text](https://cloud.githubusercontent.com/assets/16634903/22876841/8f82f8d2-f1e3-11e6-987d-c57e7e2c3b78.png "Optional title")
 
